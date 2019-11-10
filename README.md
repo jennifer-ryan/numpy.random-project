@@ -5,10 +5,12 @@ This repository contains a research project about the numpy.random package as pa
 
 ## About this Repository
 
-The repository can be accessed [here](https://github.com/jennifer-ryan/numpy.random-project). Clicking the 'clone or download' button will allow you to download the repository to your machine. The contents are:
+The repository can be accessed [here](https://github.com/jennifer-ryan/numpy.random-project). Clicking the 'clone or download' button will allow you to download the repository to your machine. Some of the code output, such as bold text and image placement, seem to not have translated correctly to the GitHub repository but should functonas intended on a local machine. 
+
+The contents of this repository are:
 
 1. A **README** file that outlines the layout of the project.
-2. A **Jupyter Notebook** that contains discussions about various functions in the **numpy.random** package and code to help illustrate them.
+2. A **Jupyter Notebook** that contains discussions about various functions in the **numpy.random** package and code to help illustrate them. The notebook contains a table of contents to aid navigation.
 
 
 ## 2. Project Description
