@@ -21,7 +21,7 @@ The project is split into the following sections that reflect the sections in th
 
 - Simple Random Data: the most basic functions in the package that return random values or arrays of values. 
 - Permutations: functions that shuffle the values of a sequence.
-- Distributions: functions that allow values to be chosen from a wide range of probability distributions.
+- Distributions: functions that allow random values to be chosen from a wide range of probability distributions.
 - Random Generators: functions that allow the user to set the seed of the pseudorandom number generator.
 
 Throughout the project I use 'random' as a descriptive term for readability purposes, even though everything generated from the **numpy.random** package is pseudorandom. To illustrate how each function operates, I use plots, descriptive statistics and some classic practical examples (coin flipping, card shuffling, etc.).
