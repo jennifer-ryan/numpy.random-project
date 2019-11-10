@@ -1,4 +1,4 @@
-# numpy.random-project 2019
+# numpy.random project 2019
 
 This repository contains a research project about the numpy.random package as part of the assessment in the *Programming for Data Analysis* module for the Higher Diploma in Data Analytics with Galway-Mayo Institute of Technology.
 
@@ -13,7 +13,7 @@ The contents of this repository are:
 2. A **Jupyter Notebook** that contains discussions about various functions in the **numpy.random** package and code to help illustrate them. The notebook contains a table of contents to aid navigation.
 
 
-## 2. Project Description
+## Project Description
 
 While the [numpy.random documentation](https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html#) explains how to use each of the functions I discuss herein, this project is an attempt to describe the functions in simple, more accessible language. 
 
