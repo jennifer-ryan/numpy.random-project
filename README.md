@@ -5,7 +5,7 @@ This repository contains a research project about the numpy.random package as pa
 
 ## About this Repository
 
-The repository can be accessed [here](https://github.com/jennifer-ryan/numpy.random-project). Clicking the 'clone or download' button will allow you to download the repository to your machine. Some of the output, such as the bold text in code output and image placement, may not translate correctly to the GitHub repository but should function as intended on a local machine. 
+The repository can be accessed [here](https://github.com/jennifer-ryan/numpy.random-project). Clicking the 'clone or download' button will allow you to download the repository to your machine. Some of the code output, such as the bold text code output and image placement, may not render correctly in the GitHub repository but should function as intended on a local machine. 
 
 The contents of this repository are:
 
@@ -15,7 +15,7 @@ The contents of this repository are:
 
 ## Project Description
 
-While the [numpy.random documentation](https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html#) explains how to use each of the functions I discuss herein, this project is an attempt to describe the functions in simple, more accessible language. 
+While the [numpy.random documentation](https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html#) explains how to use each of the functions discussed herein, this project is an attempt to describe the functions in simple, more accessible language. 
 
 The project is split into the following sections that reflect the sections in the **numpy.random** documentation:
 
